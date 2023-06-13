@@ -1,4 +1,4 @@
-# [Eliseu Augusto] <img src="https://i.gifer.com/9ARm.gif" width="30px">
+# Eliseu Augusto <img src="https://i.gifer.com/9ARm.gif" width="30px">
 
 <strong>Estudante de desenvolvimento Fullstack, SENAC - PE/Porto digital.</strong> 👨🏻‍💻 
 
