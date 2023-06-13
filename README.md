@@ -2,6 +2,6 @@
 
 Eu sou <strong>Eliseu Augusto</strong>, <strong>Estudante de desenvolvimento Fullstack, SENAC - PE/Porto digital.</strong> 👨🏻‍💻 
 
-![teste](https://i.gifer.com/Z7RV.gif)
+![teste](https://i.gifexr.com/Z7RV.gif)
 
 </div>
