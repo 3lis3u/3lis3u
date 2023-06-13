@@ -4,8 +4,8 @@
 
 ![](https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0523.gif)
 
-  
-  <a href="#" alt="Linkedin">
+  <div align="center">
+  <a href="https://www.linkedin.com/feed/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/" /></a>
 
 </div>
